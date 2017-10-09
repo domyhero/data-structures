@@ -20,3 +20,5 @@
 以 `10 -> 1010` 为例:
 
 ![](./images/1.png)
+
+* [JavaScript example](./JavaScript/example1.js)
